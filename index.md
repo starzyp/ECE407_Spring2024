@@ -1,6 +1,6 @@
 ## Course Information
 - **Instructor**: Prof. Yupeng Zhang (zhangyp@tamu.edu)
-- **Lectures**: MW 5:35 pm - 6:50 pm
+- **Lectures**: MW 4:10 pm - 5:25 pm
 - **Office Hour**: By appointment
 
 ## Course Description and Prerequisites
@@ -220,13 +220,21 @@ No textbook is required for the course. Reading materials will be posted online 
 </table>
 
 ## Grading
-**Reading assignments:** 35%. Students will submit reviews for one of the reading materials every week.
 
-**Course project:** 65%. Students will form groups and complete research projects related to the topics of the course.
+**Class Participation:** 10%. 
+
+**Reading assignments:** 30%. Students will submit reviews for one of the reading materials every 1-2 weeks. The reviews should include a brief summary of the paper, the contributions and potential improvements.
+
+**Course project:** 60%. Project (60%): Students will form groups and complete research projects related to the topics of the course. The grading consists of a project proposal, a mid-term progress report, a final presentation and a final project report. Students may propose their own topics or choose from a list of suggested topics on secure multiparty computations, verifiable computations and zero knowledge proof, privacy-preserving machine learning and blockchain.
+- Proposal (10%)
+- Mid-term presentation (10%)
+- Final presentation (20%)
+- Final report (20%)
+
 
 ## Links
 
-**Assignments and Gradebook:** http://ecampus.tamu.edu/
+**Assignments and Gradebook:** https://canvas.tamu.edu/
 
 ## Suggested topics for projects:
 ### Secure Multiparty Computations
