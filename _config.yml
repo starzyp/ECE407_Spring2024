@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: "CSCE489/689: Techniques in Applied Cryptography"
-description: Spring 2021
+title: "CSCE749: Techniques in Applied Cryptography"
+description: Spring 2022
 github:
   show_downloads: false
   is_project_page: false
