@@ -235,6 +235,7 @@ No textbook is required for the course. Reading materials will be posted online 
 ## Links
 
 **Assignments and Gradebook:** https://canvas.tamu.edu/
+
 **Piazza:** https://piazza.com/class/kyesdwtrjp03k9?cid=5
 
 ## Suggested topics for projects:
