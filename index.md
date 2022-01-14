@@ -235,25 +235,30 @@ No textbook is required for the course. Reading materials will be posted online 
 ## Links
 
 **Assignments and Gradebook:** https://canvas.tamu.edu/
+**Piazza:** https://piazza.com/class/kyesdwtrjp03k9?cid=5
 
 ## Suggested topics for projects:
-### Secure Multiparty Computations
-
-- **Privacy-preserving decision trees and random forest training and/or predictions**: apply MPC techniques to train decision tree and random forest models on encrypted data. 1. Understand decision tree and random forest. 2. Collect datasets and implement training and predictions on plaintext data. 3. Use only those computations efficiently supported by MPC, compare the accuracy to the baseline. 4. Implement the MPC protocol using existing libraries.
-- **Privacy-preserving SVM training and/or predictions**: apply MPC techniques to train SVM models on encrypted data. 1. Understand SVM. 2. Collect datasets and implement training and predictions on plaintext data. 3. Use only those computations efficiently supported by MPC, compare the accuracy to the baseline. 4. Implement the MPC protocol using existing libraries.
-- **Privacy-preserving alternating direction method of multipliers (ADMM)**: apply MPC techniques to train models on encrypted data using ditributed training algorithms (such as ADMM). 1. Understand ADMM. 2. Collect datasets and implement training and predictions on plaintext data. 3. Use only those computations efficiently supported by MPC, compare the accuracy to the baseline. 4. Implement the MPC protocol.
-
-### Zero Knowledge Proof
-
-- **Zero knowledge proof for machine learning model predictions**: generate a proof that the predictions of a secret model on a public testing dataset reaches certain accuracy. Design efficient ZKP protocols for convolution, neural networks and common activation functions.    
-- **Contingent payment on blockchain with zero knowledge proof**: design fair exchange protocols on blockchains using zero knowledge proofs.
-- **Privacy-preserving smart contracts**: 1. Understand the mechanism of smart contract. 2. Find commonly used smart contracts on existing blockchains and cryptocurrencies. 3. Given general purpose ZKP, design protocols for privacy-preserving smart contracts. 4. Implement the ZKP protocol using existing libraries and optimize for those commonly used smart contracts.
 
 ### Blockchains
 
 - **Information inference from public data on Bitcoin blockchain**: 1. Understand the public data posted on the blockchain of Bitcoin and figure out ways to download the data. 2. Repeat data analysis from existing papers. 3. Design new attacks to infer sensitive information from the public data, such as dead coins and large volume transactions and its correlations with the price of bitcoin.
 - **Information inference from public data on Ethereum**: Same as bitcoin. In addition, analyze the smart contracts.
-- **Scaling up blockchains**: sharding, rollup (optimistim rollup and zk rollup) etc. Understand zk-rollup and its relationship to zero knowledge proofs. Survey existing protocols and challenges.
+- **Scaling up blockchains**: Understand zk-rollup and its relationship to zero knowledge proofs. Survey existing protocols and challenges. Other techinques: sharding, optimistim rollup etc. 
+
+### Zero Knowledge Proof
+
+- **Zero knowledge proof for machine learning model predictions**: generate a proof that the predictions of a secret model on a public testing dataset reaches certain accuracy. Design efficient ZKP protocols for neural networks, CNN, GNN, RNN etc.
+- **Contingent payment on blockchain with zero knowledge proof**: design fair exchange protocols on blockchains using zero knowledge proofs.
+- **Privacy-preserving smart contracts**: 1. Understand the mechanism of smart contract. 2. Find commonly used smart contracts on existing blockchains and cryptocurrencies. 3. Given general purpose ZKP, design protocols for privacy-preserving smart contracts. 4. Implement the ZKP protocol using existing libraries and optimize for those commonly used smart contracts.
+
+### Secure Multiparty Computations
+
+- **Privacy-preserving alternating direction method of multipliers (ADMM)**: apply MPC techniques to train models on encrypted data using ditributed training algorithms (such as ADMM). 1. Understand ADMM. 2. Collect datasets and implement training and predictions on plaintext data. 3. Use only those computations efficiently supported by MPC, compare the accuracy to the baseline. 4. Implement the MPC protocol.
+- **Privacy-preserving decision trees and random forest training and/or predictions**: apply MPC techniques to train decision tree and random forest models on encrypted data. 1. Understand decision tree and random forest. 2. Collect datasets and implement training and predictions on plaintext data. 3. Use only those computations efficiently supported by MPC, compare the accuracy to the baseline. 4. Implement the MPC protocol using existing libraries.
+- **Privacy-preserving SVM training and/or predictions**: apply MPC techniques to train SVM models on encrypted data. 1. Understand SVM. 2. Collect datasets and implement training and predictions on plaintext data. 3. Use only those computations efficiently supported by MPC, compare the accuracy to the baseline. 4. Implement the MPC protocol using existing libraries.
+
+
+
 
 ## Ethics & Academic Integrity Statement and Policy
 
