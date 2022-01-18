@@ -250,7 +250,7 @@ No textbook is required for the course. Reading materials will be posted online 
 
 **Assignments and Gradebook:** https://canvas.tamu.edu/
 
-**Piazza:** https://piazza.com/class/kyesdwtrjp03k9
+**Piazza:** https://piazza.com/tamu/spring2022/csce749/home/
 
 ## Suggested topics for projects:
 
