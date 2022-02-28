@@ -121,13 +121,13 @@ No textbook is required for the course. Reading materials will be posted online 
     <tr>
         <th>3/7</th>
         <th>Zero-knowledge proofs for machine learning CNN</th>
-        <th></th>
+        <th><a href="https://dl.acm.org/doi/abs/10.1145/3460120.3485379">zkCNN</a></th>
         <th></th>
     </tr>
     <tr>
         <th>3/9</th>
         <th>Zero-knowledge decision tree</th>
-        <th></th>
+        <th><a href="https://dl.acm.org/doi/pdf/10.1145/3372297.3417278">Zero-knowledge decision trees</a></th>
         <th></th>
     </tr>
     <tr>
