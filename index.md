@@ -18,6 +18,8 @@ No textbook is required for the course. Reading materials will be posted online 
 
 ## Schedule (tentative)
 
+
+
 <table style="width: 140%">
     <tr>
         <th style="width: 5%;">Date</th>
@@ -152,7 +154,7 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>  
     <tr>
         <th>3/28</th>
-        <th rowspan="7">Secure Multiparty Computation and Privacy-Preserving Machine learning</th>
+        <th rowspan="6">Secure Multiparty Computation and Privacy-Preserving Machine learning</th>
         <th>Introduction to secure multiparty computation and Oblivious Transfer</th>
         <th><a href="https://en.wikipedia.org/wiki/Oblivious_transfer#:~:text=In%20cryptography%2C%20an%20oblivious%20transfer,if%20any)%20has%20been%20transferred">Wikipedia</a>
         </th>
@@ -185,7 +187,7 @@ No textbook is required for the course. Reading materials will be posted online 
     <tr>
         <th>4/11</th>
         <th>Privacy-preserving machine learning and linear regression</th>
-        <th rowspan="3">
+        <th rowspan="2">
             <ul>
             <li><a href="https://eprint.iacr.org/2017/396.pdf">SecureML</a></li>
             <li><a href="https://eprint.iacr.org/2018/403.pdf">ABY3: A Mixed Protocol Framework for Machine Learning</a></li>
@@ -196,12 +198,14 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
     <tr>
         <th>4/13</th>
-        <th>Privacy-preserving logistic regression</th>
+        <th>Privacy-preserving logistic regression and neural networks</th>
         <th></th>
     </tr>
     <tr>
         <th>4/18</th>
-        <th>Privacy-preserving neural networks</th>
+        <th></th>
+        <th>Canceled due to traveling</th>
+        <th></th>
         <th></th>
     </tr>
     <tr>
@@ -218,7 +222,7 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
     <tr>
         <th>4/27</th>
-        <th></th>
+        <th>Canceled due to traveling</th>
         <th></th>
         <th></th>
     </tr>
