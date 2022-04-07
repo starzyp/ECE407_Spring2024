@@ -154,7 +154,7 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>  
     <tr>
         <th>3/28</th>
-        <th rowspan="6">Secure Multiparty Computation and Privacy-Preserving Machine learning</th>
+        <th rowspan="8">Secure Multiparty Computation and Privacy-Preserving Machine learning</th>
         <th>Introduction to secure multiparty computation and Oblivious Transfer</th>
         <th><a href="https://en.wikipedia.org/wiki/Oblivious_transfer#:~:text=In%20cryptography%2C%20an%20oblivious%20transfer,if%20any)%20has%20been%20transferred">Wikipedia</a>
         </th>
@@ -198,25 +198,25 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
     <tr>
         <th>4/13</th>
-        <th>Privacy-preserving logistic regression and neural networks</th>
+        <th>Privacy-preserving logistic regression</th>
         <th></th>
     </tr>
     <tr>
         <th>4/18</th>
-        <th></th>
         <th>Canceled due to traveling</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
         <th>4/20</th>
-        <th rowspan="4">Final Project Presentations</th>
+        <th>Privacy-preserving neural networks</th>
         <th></th>
         <th></th>
     </tr>
      <tr>
         <th>4/25</th>
         <th></th>
+        <th>Project Q&A</th>
         <th></th>
         <th></th>
     </tr>
@@ -225,12 +225,14 @@ No textbook is required for the course. Reading materials will be posted online 
         <th>Canceled due to traveling</th>
         <th></th>
         <th></th>
+        <th>Videos of presentations due 5/1</th>
     </tr>
     <tr>
         <th>5/2</th>
+        <th>No class, watch presentations</th>
         <th></th>
         <th></th>
-        <th>Final report due 5/4</th>
+        <th>Final report due 5/8</th>
     </tr>
 </table>
 
