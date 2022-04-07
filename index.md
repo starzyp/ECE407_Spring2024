@@ -190,7 +190,6 @@ No textbook is required for the course. Reading materials will be posted online 
         <th rowspan="2">
             <ul>
             <li><a href="https://eprint.iacr.org/2017/396.pdf">SecureML</a></li>
-            <li><a href="https://eprint.iacr.org/2018/403.pdf">ABY3: A Mixed Protocol Framework for Machine Learning</a></li>
             <li><a href="https://people.eecs.berkeley.edu/~wzheng/helen_ieeesp.pdf">Helen: Maliciously Secure Coopetitive Learning for Linear Models</a></li>
             </ul>
         </th>   
@@ -210,7 +209,9 @@ No textbook is required for the course. Reading materials will be posted online 
     <tr>
         <th>4/20</th>
         <th>Privacy-preserving neural networks</th>
-        <th></th>
+        <th>
+            <li><a href="https://eprint.iacr.org/2018/403.pdf">ABY3: A Mixed Protocol Framework for Machine Learning</a></li>
+        </th>
         <th></th>
     </tr>
      <tr>
