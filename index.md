@@ -1,17 +1,19 @@
 ## Course Information
-- **Instructor**: Prof. Yupeng Zhang (zhangyp@tamu.edu)
-- **Lectures**: MW 4:10 pm - 5:25 pm
+- **Instructor**: Prof. Yupeng Zhang
+<!-- - **Lectures**: MW 4:10 pm - 5:25 pm --> 
 - **Office Hour**: By appointment
 
 ## Course Description and Prerequisites
 
-This course covers techniques in applied cryptography and their applications in machine learning and blockchain to enhance data privacy. Related cryptographic techniques include secure multiparty computations, verifiable computations and zero knowledge proofs. We will discuss their basic concepts and state-of-the-art constructions. Additionally, we will talk about how to use these techniques to construct privacy-preserving machine learning, crypto-currencies and blockchain. We will focus on efficiency and functionality constraints in practice, and discuss challenges and solutions to efficiently realize these cryptographic protocols. 
+This course covers techniques in applied cryptography and their applications in machine learning and blockchain to enhance privacy, integrity and scalability. In this course, we will explore the cutting-edge cryptographic techniques such as zero-knowledge proofs and secure multiparty computations. We will discuss the basic concepts and state-of-the-art constructions of these cryptographic schemes. Additionally, we will talk about how to use these techniques to construct privacy-preserving blockchain and crypto-currencies, zkRollups and zkEVM, privacy preserving machine learning and zero-knowledge proofs for machine learning. We will focus on efficiency and scalability constraints in practice, and discuss challenges and solutions to efficiently realize these cryptographic protocols.
 
-The course has no specific prerequisites. Basic knowledge of algorithms, data structures and programming is recommended.
+Prerequisites:  ECE 374 or equivalent courses approved by the instructor. Basic knowledge of algorithms, data structures and programming is recommended.
 
 
 
 ## Textbook and Resource Materials
+
+MOOC on Zero-Knowledge Proofs: https://zk-learning.org/
 
 No textbook is required for the course. Reading materials will be posted online during the semester
 
@@ -22,21 +24,21 @@ No textbook is required for the course. Reading materials will be posted online 
 
 <table style="width: 140%">
     <tr>
-        <th style="width: 5%;">Date</th>
+        <th style="width: 7%;">Date</th>
         <th style="width: 20%;">Sections</th>
         <th style="width: 40%;">Topic</th>
         <th style="width: 45%;">Readings</th>
         <th style="width: 20%;">Deadline</th>
     </tr>
     <tr>
-        <th>1/19</th>
+        <th>Week 1</th>
         <th>Introduction</th>
         <th>Introduction and logitics, background on Cryptography</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
-        <th>1/24</th>
+        <th>Week 1</th>
         <th rowspan="14">Verifiable Computation, Zero Knowledge Proof and Blockchain</th>
         <th>Introduction to verifiable computation and zero knowledge proof</th>
         <th>
@@ -45,7 +47,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th></th>
     </tr>
     <tr>
-        <th>1/26</th>
+        <th>Week 2</th>
         <th>Introduction to blockchain and cryptocurrency</th>
         <th>
         <a href="https://bitcoin.org/bitcoin.pdf">Bitcoin</a>
@@ -53,7 +55,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th></th>
     </tr>
     <tr>
-        <th>1/31</th>
+        <th>Week 2</th>
         <th>Pricacy-preserving crypto-currencies</th>
         <th>
             <ul>
@@ -64,7 +66,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th></th>
     </tr>
     <tr>
-        <th>2/2</th>
+        <th>Week 3</th>
         <th>Customized solutions: RSA accumulators</th>
         <th>
         <a href="https://cs.brown.edu/people/alysyans/papers/camlys02.pdf">RSA Accumulator</a>
@@ -72,7 +74,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th>Team Formation</th>
     </tr>
     <tr>
-        <th>2/7</th>
+        <th>Week 3</th>
         <th>Customized solutions: Bilinear accumulators</th>
         <th>
         <a href="https://eprint.iacr.org/2010/455.pdf">Bilinear Accumulator</a>
@@ -80,29 +82,29 @@ No textbook is required for the course. Reading materials will be posted online 
         <th></th>
     </tr>
     <tr>
-        <th>2/9</th>
+        <th>Week 4</th>
         <th rowspan="2">Generic solutions:SNARK</th>
         <th rowspan="2"><a href="https://eprint.iacr.org/2013/279.pdf">SNARK</a></th>
         <th></th>
     </tr>
     <tr>
-        <th>2/14</th>
+        <th>Week 4</th>
         <th></th>
     </tr>
     <tr>
-        <th>2/16</th>
+        <th>Week 5</th>
         <th>Smart contract</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
-        <th>2/21</th>
+        <th>Week 5</th>
         <th>Privacy-preserving smart contract</th>
         <th><a href="https://eprint.iacr.org/2015/675.pdf">Hawk</a></th>
         <th></th>
     </tr>
     <tr>
-        <th>2/23</th>
+        <th>Week 6</th>
         <th rowspan="3">Generic solutions: interactive proofs</th>
         <th rowspan="3">
             <ul>
@@ -110,50 +112,50 @@ No textbook is required for the course. Reading materials will be posted online 
                 <li><a href="https://eprint.iacr.org/2011/587.pdf">Polynomial delegation</a></li>
             </ul>
         </th>
-        <th>Proposal due 2/25</th>
+        <th>Proposal due</th>
     </tr>
     <tr>
-        <th>2/28</th>   
+        <th>Week 6</th>   
         <th></th>
     </tr>
     <tr>
-        <th>3/2</th>
+        <th>Week 7</th>
         <th></th>
     </tr>   
     <tr>
-        <th>3/7</th>
+        <th>Week 7</th>
         <th>Zero-knowledge proofs for machine learning CNN</th>
         <th><a href="https://dl.acm.org/doi/abs/10.1145/3460120.3485379">zkCNN</a></th>
         <th></th>
     </tr>
     <tr>
-        <th>3/9</th>
+        <th>Week 8</th>
         <th>Zero-knowledge decision tree</th>
         <th><a href="https://dl.acm.org/doi/pdf/10.1145/3372297.3417278">Zero-knowledge decision trees</a></th>
         <th></th>
     </tr>
     <tr>
-        <th>3/14</th>
-        <th rowspan = "2">Spring break</th>
+        <th>Week 8</th>
+        <th rowspan = "2">Fall break</th>
         <th rowspan = "2"></th>
         <th rowspan = "2"></th>
         <th rowspan = "2"></th>
     </tr> 
     <tr>
-        <th>3/16</th>
+        <th>Week 9</th>
     </tr>  
     <tr>
-        <th>3/21</th>
+        <th>Week 9</th>
         <th rowspan = "2">Midterm Presentation</th>
         <th rowspan = "2"></th>
         <th rowspan = "2"></th>
         <th rowspan = "2"></th>
     </tr> 
     <tr>
-        <th>3/23</th>
+        <th>Week 10</th>
     </tr>  
     <tr>
-        <th>3/28</th>
+        <th>Week 10</th>
         <th rowspan="8">Secure Multiparty Computation and Privacy-Preserving Machine learning</th>
         <th>Introduction to secure multiparty computation and Oblivious Transfer</th>
         <th><a href="https://en.wikipedia.org/wiki/Oblivious_transfer#:~:text=In%20cryptography%2C%20an%20oblivious%20transfer,if%20any)%20has%20been%20transferred">Wikipedia</a>
@@ -161,7 +163,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th></th>
     </tr>
     <tr>
-        <th>3/30</th>
+        <th>Week 11</th>
         <th>Yao's Garbled circuit</th>
         <th>
         <ul>
@@ -173,19 +175,19 @@ No textbook is required for the course. Reading materials will be posted online 
         <th></th>
     </tr>
     <tr>
-        <th>4/4</th>
+        <th>Week 11</th>
         <th>GMW protocol</th>
         <th><a href="https://www.youtube.com/watch?v=4YwvZaA9IEg">Youtube tutorial</a></th>
         <th></th>
     </tr>
     <tr>
-        <th>4/6</th>     
+        <th>Week 12</th>     
         <th>Malicious security and fairness</th>
         <th><a href="https://eprint.iacr.org/2008/049.pdf">Cut and choose</a></th>
         <th></th>
     </tr>
     <tr>
-        <th>4/11</th>
+        <th>Week 12</th>
         <th>Privacy-preserving machine learning and linear regression</th>
         <th rowspan="2">
             <ul>
@@ -196,18 +198,18 @@ No textbook is required for the course. Reading materials will be posted online 
         <th></th>
     </tr>
     <tr>
-        <th>4/13</th>
+        <th>Week 13</th>
         <th>Privacy-preserving logistic regression</th>
         <th></th>
     </tr>
     <tr>
-        <th>4/18</th>
+        <th>Week 13</th>
         <th>Canceled due to traveling</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
-        <th>4/20</th>
+        <th>Week 14</th>
         <th>Privacy-preserving neural networks</th>
         <th>
             <li><a href="https://eprint.iacr.org/2018/403.pdf">ABY3: A Mixed Protocol Framework for Machine Learning</a></li>
@@ -215,25 +217,25 @@ No textbook is required for the course. Reading materials will be posted online 
         <th></th>
     </tr>
      <tr>
-        <th>4/25</th>
+        <th>Week 14</th>
+        <th>Presentations</th>
         <th></th>
-        <th>Project Q&A</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
-        <th>4/27</th>
-        <th>Canceled due to traveling</th>
+        <th>Week 15</th>
+        <th>Presentations</th>
         <th></th>
         <th></th>
-        <th>Videos of presentations due 5/1</th>
+        <th></th>
     </tr>
     <tr>
-        <th>5/2</th>
-        <th>No class, watch presentations</th>
+        <th>Week 15</th>
+        <th>Presentations</th>
         <th></th>
         <th></th>
-        <th>Final report due 5/8</th>
+        <th>Final report due</th>
     </tr>
 </table>
 
@@ -249,12 +251,14 @@ No textbook is required for the course. Reading materials will be posted online 
 - Final presentation (20%)
 - Final report (20%)
 
-
+<!--
 ## Links
 
 **Assignments and Gradebook:** https://canvas.tamu.edu/
 
 **Piazza:** https://piazza.com/tamu/spring2022/csce749/home/
+-->
+
 
 ## Suggested topics for projects:
 
@@ -278,11 +282,11 @@ No textbook is required for the course. Reading materials will be posted online 
 
 
 
-
+<!--
 ## Ethics & Academic Integrity Statement and Policy
 
 "An Aggie does not lie, cheat, or steal or tolerate those who do." For additional information, please visit: http://aggiehonor.tamu.edu.  
 
 Upon accepting admission to Texas A&M University, a student immediately assumes a commitment to uphold the Honor Code, to accept responsibility for learning, and to follow the philosophy and rules of the Honor System. Students will be required to state their commitment on examinations, research papers, and other academic work. Ignorance of the rules does not exclude any member of the TAMU community from the requirements or the processes of the Honor System.
-
+-->
 
