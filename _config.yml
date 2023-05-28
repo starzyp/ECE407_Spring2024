@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: "CSCE749: Introduction to Applied Cryptography"
-description: Spring 2022
+title: "ECE598: Advanced Topics in Applied Cryptography"
+description: Fall 2023
 github:
   show_downloads: false
   is_project_page: false
