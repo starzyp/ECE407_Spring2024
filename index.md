@@ -22,24 +22,21 @@ No textbook is required for the course. Reading materials will be posted online 
 
 
 
-<table style="width: 135%">
+<table style="width: 110%">
     <tr>
-        <th style="width: 10%;">Date</th>
-        <th style="width: 20%;">Sections</th>
+        <th style="width: 15%;">Date</th>
         <th style="width: 40%;">Topic</th>
         <th style="width: 35%;">Readings</th>
         <th style="width: 20%;">Deadline</th>
     </tr>
     <tr>
         <th>Week 1</th>
-        <th>Introduction</th>
         <th>Introduction and logitics, background on Cryptography</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
         <th>Week 1</th>
-        <th rowspan="14">Verifiable Computation, Zero Knowledge Proof and Blockchain</th>
         <th>Introduction to verifiable computation and zero knowledge proof</th>
         <th>
             <a href="https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf">Merkle Hash Tree</a>
@@ -139,7 +136,6 @@ No textbook is required for the course. Reading materials will be posted online 
         <th rowspan = "2">Fall break</th>
         <th rowspan = "2"></th>
         <th rowspan = "2"></th>
-        <th rowspan = "2"></th>
     </tr> 
     <tr>
         <th>Week 9</th>
@@ -149,14 +145,12 @@ No textbook is required for the course. Reading materials will be posted online 
         <th rowspan = "2">Midterm Presentation</th>
         <th rowspan = "2"></th>
         <th rowspan = "2"></th>
-        <th rowspan = "2"></th>
     </tr> 
     <tr>
         <th>Week 10</th>
     </tr>  
     <tr>
         <th>Week 10</th>
-        <th rowspan="8">Secure Multiparty Computation and Privacy-Preserving Machine learning</th>
         <th>Introduction to secure multiparty computation and Oblivious Transfer</th>
         <th><a href="https://en.wikipedia.org/wiki/Oblivious_transfer#:~:text=In%20cryptography%2C%20an%20oblivious%20transfer,if%20any)%20has%20been%20transferred">Wikipedia</a>
         </th>
@@ -204,7 +198,7 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
     <tr>
         <th>Week 13</th>
-        <th>Canceled due to traveling</th>
+        <th>Privacy-preserving neural networks</th>
         <th></th>
         <th></th>
     </tr>
@@ -221,19 +215,16 @@ No textbook is required for the course. Reading materials will be posted online 
         <th>Presentations</th>
         <th></th>
         <th></th>
-        <th></th>
     </tr>
     <tr>
         <th>Week 15</th>
         <th>Presentations</th>
         <th></th>
         <th></th>
-        <th></th>
     </tr>
     <tr>
         <th>Week 15</th>
         <th>Presentations</th>
-        <th></th>
         <th></th>
         <th>Final report due</th>
     </tr>
