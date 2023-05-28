@@ -22,12 +22,12 @@ No textbook is required for the course. Reading materials will be posted online 
 
 
 
-<table style="width: 140%">
+<table style="width: 135%">
     <tr>
-        <th style="width: 7%;">Date</th>
+        <th style="width: 10%;">Date</th>
         <th style="width: 20%;">Sections</th>
         <th style="width: 40%;">Topic</th>
-        <th style="width: 45%;">Readings</th>
+        <th style="width: 35%;">Readings</th>
         <th style="width: 20%;">Deadline</th>
     </tr>
     <tr>
