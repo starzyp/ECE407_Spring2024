@@ -1,7 +1,8 @@
 ## Course Information
-- **Instructor**: Prof. Yupeng Zhang
-<!-- - **Lectures**: MW 4:10 pm - 5:25 pm --> 
+- **Instructor**: Prof. Yupeng Zhang zhangyp@illinois.edu
+- **Lectures**: TuTh 5:00 pm - 6:20 pm
 - **Office Hour**: By appointment
+- **Location**: 2015 ECEB
 
 ## Course Description and Prerequisites
 
@@ -64,28 +65,31 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
     <tr>
         <th>Week 3</th>
-        <th>Customized solutions: RSA accumulators</th>
+        <th>Polynomial commitments</th>
         <th>
-        <a href="https://cs.brown.edu/people/alysyans/papers/camlys02.pdf">RSA Accumulator</a>
+        <a href="https://www.iacr.org/archive/asiacrypt2010/6477178/6477178.pdf">Polynomial commitments</a>
         </th>
         <th>Team Formation</th>
     </tr>
     <tr>
         <th>Week 3</th>
-        <th>Customized solutions: Bilinear accumulators</th>
-        <th>
-        <a href="https://eprint.iacr.org/2010/455.pdf">Bilinear Accumulator</a>
+        <th rowspan="2">Generic solutions: interactive proofs</th>
+        <th rowspan="2">
+            <ul>
+                <li><a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-40084-1_5.pdf">Time-Optimal Interactive Proofs for Circuit Evaluation</a></li>
+                <li><a href="https://eprint.iacr.org/2019/317">Libra: Succinct Zero-Knowledge Proofs with Optimal Prover Computation</a></li>
+            </ul>
         </th>
         <th></th>
     </tr>
     <tr>
         <th>Week 4</th>
-        <th rowspan="2">Generic solutions:SNARK</th>
-        <th rowspan="2"><a href="https://eprint.iacr.org/2013/279.pdf">SNARK</a></th>
         <th></th>
     </tr>
     <tr>
         <th>Week 4</th>
+        <th>Generic solutions:Plonk</th>
+        <th><a href="https://eprint.iacr.org/2019/953.pdf">Plonk</a></th>
         <th></th>
     </tr>
     <tr>
@@ -96,27 +100,23 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
     <tr>
         <th>Week 5</th>
-        <th>Privacy-preserving smart contract</th>
+        <th>Privacy-preserving smart contract and zkRollups</th>
         <th><a href="https://eprint.iacr.org/2015/675.pdf">Hawk</a></th>
         <th></th>
     </tr>
     <tr>
         <th>Week 6</th>
-        <th rowspan="3">Generic solutions: interactive proofs</th>
-        <th rowspan="3">
+        <th rowspan="2">Generic solutions: SNARK</th>
+        <th rowspan="2">
             <ul>
-                <li><a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-40084-1_5.pdf">Time-Optimal Interactive Proofs for Circuit Evaluation</a></li>
-                <li><a href="https://eprint.iacr.org/2011/587.pdf">Polynomial delegation</a></li>
+                <li><a href="https://eprint.iacr.org/2013/279.pdf">Pinocchio</a></li>
+                <li><a href="https://eprint.iacr.org/2016/260.pdf">Groth16</a></li>
             </ul>
         </th>
         <th>Proposal due</th>
     </tr>
     <tr>
-        <th>Week 6</th>   
-        <th></th>
-    </tr>
-    <tr>
-        <th>Week 7</th>
+        <th>Week 6</th>
         <th></th>
     </tr>   
     <tr>
@@ -126,20 +126,23 @@ No textbook is required for the course. Reading materials will be posted online 
         <th></th>
     </tr>
     <tr>
-        <th>Week 8</th>
+        <th>Week 7</th>
         <th>Zero-knowledge decision tree</th>
         <th><a href="https://dl.acm.org/doi/pdf/10.1145/3372297.3417278">Zero-knowledge decision trees</a></th>
         <th></th>
     </tr>
     <tr>
         <th>Week 8</th>
-        <th rowspan = "2">Fall break</th>
-        <th rowspan = "2"></th>
-        <th rowspan = "2"></th>
-    </tr> 
+        <th>ZKP based on error-correcting codes</th>
+        <th><a href="https://eprint.iacr.org/2022/1010">Orion</a></th>
+        <th></th>
+    </tr>
     <tr>
-        <th>Week 9</th>
-    </tr>  
+        <th>Week 8</th>
+        <th>Interactive Oracle Proofs and FRI</th>
+        <th><a href="https://eccc.weizmann.ac.il/report/2017/134/">FRI</a></th>
+        <th></th>
+    </tr>
     <tr>
         <th>Week 9</th>
         <th rowspan = "2">Midterm Presentation</th>
@@ -147,7 +150,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th rowspan = "2"></th>
     </tr> 
     <tr>
-        <th>Week 10</th>
+        <th>Week 9</th>
     </tr>  
     <tr>
         <th>Week 10</th>
@@ -157,7 +160,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th></th>
     </tr>
     <tr>
-        <th>Week 11</th>
+        <th>Week 10</th>
         <th>Yao's Garbled circuit</th>
         <th>
         <ul>
@@ -175,7 +178,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th></th>
     </tr>
     <tr>
-        <th>Week 12</th>     
+        <th>Week 11</th>     
         <th>Malicious security and fairness</th>
         <th><a href="https://eprint.iacr.org/2008/049.pdf">Cut and choose</a></th>
         <th></th>
@@ -192,29 +195,31 @@ No textbook is required for the course. Reading materials will be posted online 
         <th></th>
     </tr>
     <tr>
-        <th>Week 13</th>
+        <th>Week 12</th>
         <th>Privacy-preserving logistic regression</th>
         <th></th>
     </tr>
     <tr>
         <th>Week 13</th>
         <th>Privacy-preserving neural networks</th>
-        <th></th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>Week 14</th>
-        <th>Privacy-preserving neural networks</th>
         <th>
             <li><a href="https://eprint.iacr.org/2018/403.pdf">ABY3: A Mixed Protocol Framework for Machine Learning</a></li>
         </th>
         <th></th>
     </tr>
+        <tr>
+        <th>Week 13</th>
+        <th>Stacked Garbking</th>
+        <th> <li><a href="https://eprint.iacr.org/2020/973">Stacked Garbking</a></li></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th rowspan="2">Week 14</th>
+        <th rowspan="2">Fall break</th>
+        <th rowspan="2"></th>
+        <th rowspan="2"></th>
+    </tr>
      <tr>
-        <th>Week 14</th>
-        <th>Presentations</th>
-        <th></th>
-        <th></th>
     </tr>
     <tr>
         <th>Week 15</th>
@@ -262,8 +267,9 @@ No textbook is required for the course. Reading materials will be posted online 
 ### Zero Knowledge Proof
 
 - **Zero knowledge proof for machine learning model predictions**: generate a proof that the predictions of a secret model on a public testing dataset reaches certain accuracy. Design efficient ZKP protocols for neural networks, CNN, GNN, RNN etc.
-- **Contingent payment on blockchain with zero knowledge proof**: design fair exchange protocols on blockchains using zero knowledge proofs.
 - **Privacy-preserving smart contracts**: 1. Understand the mechanism of smart contract. 2. Find commonly used smart contracts on existing blockchains and cryptocurrencies. 3. Given general purpose ZKP, design protocols for privacy-preserving smart contracts. 4. Implement the ZKP protocol using existing libraries and optimize for those commonly used smart contracts.
+- **Distributed and memory-efficient zero-knowledge proofs**: improve the scalability of ZKPs via a protocol with sublinear memory usage, or a distributed protocol with multiple machines.
+- **Zero knowledge proof for graph algorithms**: generate a proof that the result of graph algorithm is correct. Design efficient ZKP protocols for shortest path etc.
 
 ### Secure Multiparty Computations
 
