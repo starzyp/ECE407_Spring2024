@@ -61,7 +61,7 @@ No textbook is required for the course. Reading materials will be posted online 
             <li><a href="http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf">Zcash</a></li>
             </ul>
         </th>
-        <th></th>
+        <th>Team Formation</th>
     </tr>
     <tr>
         <th>Week 3</th>
@@ -69,7 +69,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th>
         <a href="https://www.iacr.org/archive/asiacrypt2010/6477178/6477178.pdf">Polynomial commitments</a>
         </th>
-        <th>Team Formation</th>
+        <th></th>
     </tr>
     <tr>
         <th>Week 3</th>
@@ -102,7 +102,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th>Week 5</th>
         <th>Privacy-preserving smart contract and zkRollups</th>
         <th><a href="https://eprint.iacr.org/2015/675.pdf">Hawk</a></th>
-        <th></th>
+        <th>Proposal due</th>
     </tr>
     <tr>
         <th>Week 6</th>
@@ -113,7 +113,7 @@ No textbook is required for the course. Reading materials will be posted online 
                 <li><a href="https://eprint.iacr.org/2016/260.pdf">Groth16</a></li>
             </ul>
         </th>
-        <th>Proposal due</th>
+        <th></th>
     </tr>
     <tr>
         <th>Week 6</th>
