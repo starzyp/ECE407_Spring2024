@@ -38,7 +38,7 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
     <tr>
         <th>Week 1</th>
-        <th>Introduction to verifiable computation and zero knowledge proof</th>
+        <th>Introduction to verifiable computation and zero-knowledge proof</th>
         <th>
             <a href="https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf">Merkle Hash Tree</a>
         </th>
@@ -61,7 +61,7 @@ No textbook is required for the course. Reading materials will be posted online 
             <li><a href="http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf">Zcash</a></li>
             </ul>
         </th>
-        <th>Team Formation</th>
+        <th></th>
     </tr>
     <tr>
         <th>Week 3</th>
@@ -69,7 +69,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th>
         <a href="https://www.iacr.org/archive/asiacrypt2010/6477178/6477178.pdf">Polynomial commitments</a>
         </th>
-        <th></th>
+        <th>Team Formation</th>
     </tr>
     <tr>
         <th>Week 3</th>
