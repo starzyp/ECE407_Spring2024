@@ -134,7 +134,11 @@ No textbook is required for the course. Reading materials will be posted online 
     <tr>
         <th>Week 8</th>
         <th>ZKP based on error-correcting codes</th>
-        <th><a href="https://eprint.iacr.org/2022/1010">Orion</a></th>
+        <th>
+            <ul>
+                <li><a href="https://eprint.iacr.org/2013/279.pdf">Brakedown</a></li>
+                <li><a href="https://eprint.iacr.org/2022/1010">Orion</a></th></li>
+            </ul>
         <th></th>
     </tr>
     <tr>
@@ -209,8 +213,8 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
         <tr>
         <th>Week 13</th>
-        <th>Stacked Garbking</th>
-        <th> <li><a href="https://eprint.iacr.org/2020/973">Stacked Garbking</a></li></th>
+        <th>Stacked Garbling</th>
+        <th> <li><a href="https://eprint.iacr.org/2020/973">Stacked Garbling</a></li></th>
         <th></th>
     </tr>
     <tr>
