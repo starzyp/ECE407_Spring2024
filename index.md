@@ -139,6 +139,7 @@ No textbook is required for the course. Reading materials will be posted online 
                 <li><a href="https://eprint.iacr.org/2013/279.pdf">Brakedown</a></li>
                 <li><a href="https://eprint.iacr.org/2022/1010">Orion</a></th></li>
             </ul>
+        </th>
         <th></th>
     </tr>
     <tr>
