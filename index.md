@@ -136,7 +136,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th>ZKP based on error-correcting codes</th>
         <th>
             <ul>
-                <li><a href="https://eprint.iacr.org/2013/279.pdf">Brakedown</a></li>
+                <li><a href="https://eprint.iacr.org/2021/1043">Brakedown</a></li>
                 <li><a href="https://eprint.iacr.org/2022/1010">Orion</a></li>
             </ul>
         </th>
@@ -191,7 +191,7 @@ No textbook is required for the course. Reading materials will be posted online 
     <tr>
         <th>Week 12</th>
         <th>Privacy-preserving machine learning and linear regression</th>
-        <th rowspan="2">
+        <th>
             <ul>
             <li><a href="https://eprint.iacr.org/2017/396.pdf">SecureML</a></li>
             <li><a href="https://people.eecs.berkeley.edu/~wzheng/helen_ieeesp.pdf">Helen: Maliciously Secure Coopetitive Learning for Linear Models</a></li>
@@ -201,21 +201,22 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
     <tr>
         <th>Week 12</th>
-        <th>Privacy-preserving logistic regression</th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>Week 13</th>
-        <th>Privacy-preserving neural networks</th>
+        <th>Privacy-preserving logistic regression and neural networks</th>
         <th>
             <li><a href="https://eprint.iacr.org/2018/403.pdf">ABY3: A Mixed Protocol Framework for Machine Learning</a></li>
         </th>
         <th></th>
     </tr>
-        <tr>
+    <tr>
         <th>Week 13</th>
         <th>Stacked Garbling</th>
         <th> <li><a href="https://eprint.iacr.org/2020/973">Stacked Garbling</a></li></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>Week 13</th>
+        <th>No class on 11/16</th>
+        <th></th>
         <th></th>
     </tr>
     <tr>
