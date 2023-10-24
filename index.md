@@ -189,7 +189,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th>Malicious security and fairness</th>
         <th>
         <ul>
-            <li><a href="https://eprint.iacr.org/2017/030">Authenticated Garbling</li>
+            <li><a href="https://eprint.iacr.org/2017/030">Authenticated Garbling</a></li>
             <li><a href="https://eprint.iacr.org/2008/049.pdf">Cut and choose</a></li>
         </ul>    
         </th>
