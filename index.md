@@ -160,7 +160,7 @@ No textbook is required for the course. Reading materials will be posted online 
     <tr>
         <th>Week 10</th>
         <th>Introduction to secure multiparty computation and Oblivious Transfer</th>
-        <th><a href="https://en.wikipedia.org/wiki/Oblivious_transfer#:~:text=In%20cryptography%2C%20an%20oblivious%20transfer,if%20any)%20has%20been%20transferred">Wikipedia</a>
+        <th><a href="https://nishkum.github.io/files/OT_extension.pdf">OT Extension</a>
         </th>
         <th></th>
     </tr>
@@ -179,13 +179,20 @@ No textbook is required for the course. Reading materials will be posted online 
     <tr>
         <th>Week 11</th>
         <th>GMW protocol</th>
-        <th><a href="https://www.youtube.com/watch?v=4YwvZaA9IEg">Youtube tutorial</a></th>
+        <th>
+            <a href="https://www.youtube.com/watch?v=4YwvZaA9IEg">Youtube tutorial</a>
+        </th>
         <th></th>
     </tr>
     <tr>
         <th>Week 11</th>     
         <th>Malicious security and fairness</th>
-        <th><a href="https://eprint.iacr.org/2008/049.pdf">Cut and choose</a></th>
+        <th>
+        <ul>
+            <li><a href="https://eprint.iacr.org/2017/030">Authenticated Garbling</li>
+            <li><a href="https://eprint.iacr.org/2008/049.pdf">Cut and choose</a></li>
+        </ul>    
+        </th>
         <th></th>
     </tr>
     <tr>
