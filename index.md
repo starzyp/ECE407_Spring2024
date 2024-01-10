@@ -14,7 +14,7 @@ This webpage serves as the course syllabus, and it will be edited throughout the
 
 
 
-## Textbook and Resource Materials
+## Textbooks (optional)
 
 - Mike Rosulek’s [The Joy of Cryptography](https://joyofcryptography.com/) is an excellent, albeit unfinished, free resource.
 
@@ -30,241 +30,107 @@ This webpage serves as the course syllabus, and it will be edited throughout the
 
 ## Grading
 
-**Class Participation:** 10%.  Please show up to class, and participate in discussions in class and on Piazza. We will sometimes take formal attendance in class. You can miss up to three lectures without excuse; after that, each unexcused absence will deduct of your participation grade.
+- **Class Participation:** 10%.  Please show up to class, and participate in discussions in class and on Piazza. We will sometimes take formal attendance in class. You can miss up to three lectures without excuse; after that, each unexcused absence will deduct of your participation grade.
 
-**Homework:** 60%. Written homeworks are the bulk of your grade!
+- **Homework:** 50%. The course will include four homework assignments. Each homework will include careful instructions. Homework problems will include (1) long-form problem write-ups and proofs as well as (2) C++ programming assignments. For programming assignments, follow instructions carefully to receive full credit.
 
-Homeworks are to be submitted individually. However, you may collaborate with up to one other student on homework assignments. On each homework submission, declare your collaborator (if any). In your collaboration you are expected to discuss the homework, not merely copy answers. Plagiarism will not be tolerated (see Academic Integrity).
+Homeworks are to be submitted via Gradescope. Late homework will not be accepted without valid excuses and approval of the instructor
 
-**Final Exam:** 30%. The final exam will be a cumulative test on all course topics. It will be a combination of multiple choice and free response problems.
+**Collaboration.** Homeworks are to be submitted individually. However, you may collaborate with up to one other student on homework assignments. On each homework submission, declare your collaborator (if any). In your collaboration you are expected to discuss the homework, not merely copy answers. Plagiarism will not be tolerated (see Academic Integrity).
+
+- **Final Exam:** 40%. The final exam will be a cumulative test on all course topics. It will be a combination of multiple choice and free response problems.
+
+**8:00-11:00 a.m., Monday, May 6**
 
 
 ## Schedule (tentative)
 
+<table style="width: 100%">
+    <tr>
+        <th style="width: 20%;">Date</th>
+        <th style="width: 50%;">Topic</th>
+        <th style="width: 30%;">Readings</th>
 
-
-<table style="width: 110%">
-    <tr>
-        <th style="width: 15%;">Date</th>
-        <th style="width: 40%;">Topic</th>
-        <th style="width: 35%;">Readings</th>
-        <th style="width: 20%;">Deadline</th>
     </tr>
     <tr>
-        <th>Week 1</th>
-        <th>Introduction and logitics, background on Cryptography</th>
-        <th></th>
+        <th>Week 1 1/17</th>
+        <th>Introduction and background on Cryptography. Ancient ciphers</th>
         <th></th>
     </tr>
     <tr>
-        <th>Week 1</th>
-        <th>Introduction to verifiable computation and zero-knowledge proof</th>
-        <th>
-            <a href="https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf">Merkle Hash Tree</a>
-        </th>
+        <th>Week 2 1/22</th>
+        <th>One Time Pad, Security definitions and pseudorandomness</th>
         <th></th>
     </tr>
     <tr>
-        <th>Week 2</th>
-        <th>Introduction to blockchain and cryptocurrency</th>
-        <th>
-        <a href="https://bitcoin.org/bitcoin.pdf">Bitcoin</a>
-        </th>
+        <th>Week 3 1/29</th>
+        <th>Block ciphers, Chosen plaintext attack</th>
         <th></th>
     </tr>
     <tr>
-        <th>Week 2</th>
-        <th>Pricacy-preserving crypto-currencies</th>
-        <th>
-            <ul>
-            <li><a href="https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf">Inference attacks on Bitcoin</a></li>
-            <li><a href="http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf">Zcash</a></li>
-            </ul>
-        </th>
+        <th>Week 4 2/5</th>
+        <th>Block Ciphers and Modes of Operation</th>
         <th></th>
     </tr>
     <tr>
-        <th>Week 3</th>
-        <th>Polynomial commitments</th>
-        <th>
-        <a href="https://www.iacr.org/archive/asiacrypt2010/6477178/6477178.pdf">Polynomial commitments</a>
-        </th>
-        <th>Team Formation</th>
-    </tr>
-    <tr>
-        <th>Week 3</th>
-        <th rowspan="2">Generic solutions: interactive proofs</th>
-        <th rowspan="2">
-            <ul>
-                <li><a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-40084-1_5.pdf">Time-Optimal Interactive Proofs for Circuit Evaluation</a></li>
-                <li><a href="https://eprint.iacr.org/2019/317">Libra: Succinct Zero-Knowledge Proofs with Optimal Prover Computation</a></li>
-            </ul>
-        </th>
+        <th>Week 5 2/12</th>
+        <th>Message Authentication Codes and CCA security</th>
         <th></th>
     </tr>
     <tr>
-        <th>Week 4</th>
+        <th>Week 6 2/19</th>
+        <th>Authenticated encryption, Hash functions</th>
         <th></th>
     </tr>
     <tr>
-        <th>Week 4</th>
-        <th>Generic solutions:Plonk</th>
-        <th><a href="https://eprint.iacr.org/2019/953.pdf">Plonk</a></th>
+        <th>Week 7 2/26</th>
+        <th>Number Theory, Diffie-Hellman key exchange</th>
         <th></th>
     </tr>
     <tr>
-        <th>Week 5</th>
-        <th>Smart contract</th>
-        <th></th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>Week 5</th>
-        <th>Privacy-preserving smart contract and zkRollups</th>
-        <th><a href="https://eprint.iacr.org/2015/675.pdf">Hawk</a></th>
-        <th>Proposal due</th>
-    </tr>
-    <tr>
-        <th>Week 6</th>
-        <th rowspan="2">Generic solutions: SNARK</th>
-        <th rowspan="2">
-            <ul>
-                <li><a href="https://eprint.iacr.org/2013/279.pdf">Pinocchio</a></li>
-                <li><a href="https://eprint.iacr.org/2016/260.pdf">Groth16</a></li>
-            </ul>
-        </th>
+        <th>Week 8 3/4</th>
+        <th>RSA encryptions</th>
         <th></th>
     </tr>
     <tr>
-        <th>Week 6</th>
+        <th>Week 9 3/11</th>
+        <th>Spring Break No Class</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>Week 10 3/18</th>
+        <th>Digital Signatures</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>Week 11 3/25</th>
+        <th>Digital Signatures</th>
         <th></th>
     </tr>   
     <tr>
-        <th>Week 7</th>
-        <th>Zero-knowledge proofs for machine learning CNN</th>
-        <th><a href="https://dl.acm.org/doi/abs/10.1145/3460120.3485379">zkCNN</a></th>
+        <th>Week 12 4/1</th>
+        <th>Pairing-based cryptography</th>
         <th></th>
     </tr>
     <tr>
-        <th>Week 7</th>
-        <th>Zero-knowledge decision tree</th>
-        <th><a href="https://dl.acm.org/doi/pdf/10.1145/3372297.3417278">Zero-knowledge decision trees</a></th>
+        <th>Week 13 4/8</th>
+        <th>Zero-knowledge proofs</th>
         <th></th>
     </tr>
     <tr>
-        <th>Week 8</th>
-        <th>ZKP based on error-correcting codes</th>
-        <th>
-            <ul>
-                <li><a href="https://eprint.iacr.org/2021/1043">Brakedown</a></li>
-                <li><a href="https://eprint.iacr.org/2022/1010">Orion</a></li>
-            </ul>
-        </th>
+        <th>Week 14 4/15</th>
+        <th>Secure Multiparty Computation</th>
         <th></th>
     </tr>
     <tr>
-        <th>Week 8</th>
-        <th>Interactive Oracle Proofs and FRI</th>
-        <th><a href="https://eccc.weizmann.ac.il/report/2017/134/">FRI</a></th>
+        <th>Week 15 4/22</th>
+        <th>Blockchain</th>
         <th></th>
     </tr>
     <tr>
-        <th>Week 9</th>
-        <th rowspan = "2">Midterm Presentation</th>
-        <th rowspan = "2"></th>
-        <th rowspan = "2"></th>
-    </tr> 
-    <tr>
-        <th>Week 9</th>
-    </tr>  
-    <tr>
-        <th>Week 10</th>
-        <th>Introduction to secure multiparty computation and Oblivious Transfer</th>
-        <th><a href="https://nishkum.github.io/files/OT_extension.pdf">OT Extension</a>
-        </th>
+        <th>Week 16 4/29</th>
+        <th>Ethics and Cryptography, review session</th>
         <th></th>
-    </tr>
-    <tr>
-        <th>Week 10</th>
-        <th>Yao's Garbled circuit</th>
-        <th>
-        <ul>
-            <li><a href="https://www.peteresnyder.com/static/papers/Peter_Snyder_-_Garbled_Circuits_WCP_2_column.pdf"> Yao's Garbled circuits</a></li>
-            <li><a href="https://www.youtube.com/watch?v=GjhvJxelIVQ">Youtube tutorial</a></li>
-            <li><a href="https://www.iacr.org/archive/eurocrypt2015/90560204/90560204.pdf">Half gates</a></li>
-        </ul>
-        </th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>Week 11</th>
-        <th>GMW protocol</th>
-        <th>
-            <a href="https://www.youtube.com/watch?v=4YwvZaA9IEg">Youtube tutorial</a>
-        </th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>Week 11</th>     
-        <th>Malicious security and fairness</th>
-        <th>
-        <ul>
-            <li><a href="https://eprint.iacr.org/2017/030">Authenticated Garbling</a></li>
-            <li><a href="https://eprint.iacr.org/2008/049.pdf">Cut and choose</a></li>
-        </ul>    
-        </th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>Week 12</th>
-        <th>Privacy-preserving machine learning and linear regression</th>
-        <th>
-            <ul>
-            <li><a href="https://eprint.iacr.org/2017/396.pdf">SecureML</a></li>
-            <li><a href="https://people.eecs.berkeley.edu/~wzheng/helen_ieeesp.pdf">Helen: Maliciously Secure Coopetitive Learning for Linear Models</a></li>
-            </ul>
-        </th>   
-        <th></th>
-    </tr>
-    <tr>
-        <th>Week 12</th>
-        <th>Privacy-preserving logistic regression and neural networks</th>
-        <th>
-            <li><a href="https://eprint.iacr.org/2018/403.pdf">ABY3: A Mixed Protocol Framework for Machine Learning</a></li>
-        </th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>Week 13</th>
-        <th>Stacked Garbling</th>
-        <th> <li><a href="https://eprint.iacr.org/2020/973">Stacked Garbling</a></li></th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>Week 13</th>
-        <th>No class on 11/16</th>
-        <th></th>
-        <th></th>
-    </tr>
-    <tr>
-        <th rowspan="2">Week 14</th>
-        <th rowspan="2">Fall break</th>
-        <th rowspan="2"></th>
-        <th rowspan="2"></th>
-    </tr>
-     <tr>
-    </tr>
-    <tr>
-        <th>Week 15</th>
-        <th>Presentations</th>
-        <th></th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>Week 15</th>
-        <th>Presentations</th>
-        <th></th>
-        <th>Final report due</th>
     </tr>
 </table>
 
