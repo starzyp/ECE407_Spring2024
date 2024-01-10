@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: "ECE598: Advanced Topics in Applied Cryptography"
-description: Fall 2023
+title: "ECE/CS 407: Cryptography"
+description: Spring 2024
 github:
   show_downloads: false
   is_project_page: false
