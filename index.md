@@ -50,7 +50,6 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
         <th style="width: 20%;">Date</th>
         <th style="width: 50%;">Topic</th>
         <th style="width: 30%;">Readings</th>
-
     </tr>
     <tr>
         <th>Week 1 1/17</th>
