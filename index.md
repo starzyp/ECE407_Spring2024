@@ -1,22 +1,31 @@
 ## Course Information
-- **Instructor**: Prof. Yupeng Zhang zhangyp@illinois.edu
-- **Lectures**: TuTh 5:00 pm - 6:20 pm
-- **Office Hour**: By appointment
-- **Location**: 2015 ECEB
+- **Lectures**: MWF 3:00 pm - 3:50 pm
+- **Location**: 2101 Everitt Laboratory
+- **Instructor**: Prof. [Yupeng Zhang](https://zhangyp.web.illinois.edu/) zhangyp@illinois.edu
+- **Office Hour**: TBD
+- **TA**: [Sourav Das](https://sourav1547.github.io/) souravd2@illinois.edu
 
 ## Course Description and Prerequisites
 
-This course covers techniques in applied cryptography and their applications in machine learning and blockchain to enhance privacy, integrity and scalability. In this course, we will explore the cutting-edge cryptographic techniques such as zero-knowledge proofs and secure multiparty computations. We will discuss the basic concepts and state-of-the-art constructions of these cryptographic schemes. Additionally, we will talk about how to use these techniques to construct privacy-preserving blockchain and crypto-currencies, zkRollups and zkEVM, privacy preserving machine learning and zero-knowledge proofs for machine learning. We will focus on efficiency and scalability constraints in practice, and discuss challenges and solutions to efficiently realize these cryptographic protocols.
+Cryptography uses mathematical algorithms and protocols to ensure the confidentiality, integrity, and authenticity of information. Today, cryptographic principles and systems form an integral part of almost all online activity. This course is an introduction to the fundamentals of modern cryptography. You will learn about cryptograhy’s formal approach to security. You will learn about cryptographic primitives, and you will learn how those primitives can be used.
 
-Prerequisites:  ECE 374 or equivalent courses approved by the instructor. Basic knowledge of algorithms, data structures and programming is recommended.
+This webpage serves as the course syllabus, and it will be edited throughout the semester to release resources.
 
 
 
 ## Textbook and Resource Materials
 
-MOOC on Zero-Knowledge Proofs: https://zk-learning.org/
+- Mike Rosulek’s [The Joy of Cryptography](https://joyofcryptography.com/) is an excellent, albeit unfinished, free resource.
 
-No textbook is required for the course. Reading materials will be posted online during the semester
+- Jonathan Katz’s and and Yehuda Lindell’s “Introduction to Modern Cryptography” is a more complete reference.
+
+- Dan Boneh’s and Victor Shoup’s [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf) is an additional resource.
+
+## Links
+
+**Assignments and Gradebook:** https://canvas.illinois.edu/
+
+**Piazza:** https://piazza.com/
 
 
 ## Schedule (tentative)
@@ -260,43 +269,6 @@ No textbook is required for the course. Reading materials will be posted online 
 - Final presentation (20%)
 - Final report (20%)
 
-<!--
-## Links
-
-**Assignments and Gradebook:** https://canvas.tamu.edu/
-
-**Piazza:** https://piazza.com/tamu/spring2022/csce749/home/
--->
 
 
-## Suggested topics for projects:
-
-### Blockchains
-
-- **Information inference from public data on Bitcoin blockchain**: 1. Understand the public data posted on the blockchain of Bitcoin and figure out ways to download the data. 2. Repeat data analysis from existing papers. 3. Design new attacks to infer sensitive information from the public data, such as dead coins and large volume transactions and its correlations with the price of bitcoin.
-- **Information inference from public data on Ethereum**: Same as bitcoin. In addition, analyze the smart contracts.
-- **Scaling up blockchains**: Understand zk-rollup and its relationship to zero knowledge proofs. Survey existing protocols and challenges. Other techinques: sharding, optimistim rollup etc. 
-
-### Zero Knowledge Proof
-
-- **Zero knowledge proof for machine learning model predictions**: generate a proof that the predictions of a secret model on a public testing dataset reaches certain accuracy. Design efficient ZKP protocols for neural networks, CNN, GNN, RNN etc.
-- **Privacy-preserving smart contracts**: 1. Understand the mechanism of smart contract. 2. Find commonly used smart contracts on existing blockchains and cryptocurrencies. 3. Given general purpose ZKP, design protocols for privacy-preserving smart contracts. 4. Implement the ZKP protocol using existing libraries and optimize for those commonly used smart contracts.
-- **Distributed and memory-efficient zero-knowledge proofs**: improve the scalability of ZKPs via a protocol with sublinear memory usage, or a distributed protocol with multiple machines.
-- **Zero knowledge proof for graph algorithms**: generate a proof that the result of graph algorithm is correct. Design efficient ZKP protocols for shortest path etc.
-
-### Secure Multiparty Computations
-
-- **Privacy-preserving alternating direction method of multipliers (ADMM)**: apply MPC techniques to train models on encrypted data using ditributed training algorithms (such as ADMM). 1. Understand ADMM. 2. Collect datasets and implement training and predictions on plaintext data. 3. Use only those computations efficiently supported by MPC, compare the accuracy to the baseline. 4. Implement the MPC protocol.
-- **Privacy-preserving decision trees and random forest training and/or predictions**: apply MPC techniques to train decision tree and random forest models on encrypted data. 1. Understand decision tree and random forest. 2. Collect datasets and implement training and predictions on plaintext data. 3. Use only those computations efficiently supported by MPC, compare the accuracy to the baseline. 4. Implement the MPC protocol using existing libraries.
-- **Privacy-preserving SVM training and/or predictions**: apply MPC techniques to train SVM models on encrypted data. 1. Understand SVM. 2. Collect datasets and implement training and predictions on plaintext data. 3. Use only those computations efficiently supported by MPC, compare the accuracy to the baseline. 4. Implement the MPC protocol using existing libraries.
-
-
-
-<!--
-## Ethics & Academic Integrity Statement and Policy
-
-"An Aggie does not lie, cheat, or steal or tolerate those who do." For additional information, please visit: http://aggiehonor.tamu.edu.  
-
-Upon accepting admission to Texas A&M University, a student immediately assumes a commitment to uphold the Honor Code, to accept responsibility for learning, and to follow the philosophy and rules of the Honor System. Students will be required to state their commitment on examinations, research papers, and other academic work. Ignorance of the rules does not exclude any member of the TAMU community from the requirements or the processes of the Honor System.
--->
 
