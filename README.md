@@ -1,1 +1,2 @@
-# CSCE749_spring2022
+# ECECS407_Spring2024
+
