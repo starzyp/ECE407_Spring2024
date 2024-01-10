@@ -4,6 +4,7 @@
 - **Instructor**: Prof. [Yupeng Zhang](https://zhangyp.web.illinois.edu/) zhangyp@illinois.edu
 - **Office Hour**: TBD
 - **TA**: [Sourav Das](https://sourav1547.github.io/) souravd2@illinois.edu
+- **TA Office Hour**: TBD
 
 ## Course Description and Prerequisites
 
@@ -26,6 +27,16 @@ This webpage serves as the course syllabus, and it will be edited throughout the
 **Assignments and Gradebook:** https://canvas.illinois.edu/
 
 **Piazza:** https://piazza.com/
+
+## Grading
+
+**Class Participation:** 10%.  Please show up to class, and participate in discussions in class and on Piazza. We will sometimes take formal attendance in class. You can miss up to three lectures without excuse; after that, each unexcused absence will deduct of your participation grade.
+
+**Homework:** 60%. Written homeworks are the bulk of your grade!
+
+Homeworks are to be submitted individually. However, you may collaborate with up to one other student on homework assignments. On each homework submission, declare your collaborator (if any). In your collaboration you are expected to discuss the homework, not merely copy answers. Plagiarism will not be tolerated (see Academic Integrity).
+
+**Final Exam:** 30%. The final exam will be a cumulative test on all course topics. It will be a combination of multiple choice and free response problems.
 
 
 ## Schedule (tentative)
@@ -257,18 +268,16 @@ This webpage serves as the course syllabus, and it will be edited throughout the
     </tr>
 </table>
 
-## Grading
 
-**Class Participation:** 10%. 
 
-**Reading assignments:** 30%. Students will submit reviews for one of the reading materials every 1-2 weeks. The reviews should include a brief summary of the paper, the contributions and potential improvements.
 
-**Course project:** 60%. Project (60%): Students will form groups and complete research projects related to the topics of the course. The grading consists of a project proposal, a mid-term progress report, a final presentation and a final project report. Students may propose their own topics or choose from a list of suggested topics on secure multiparty computations, verifiable computations and zero knowledge proof, privacy-preserving machine learning and blockchain.
-- Proposal (10%)
-- Mid-term presentation (10%)
-- Final presentation (20%)
-- Final report (20%)
+## Academic Integrity
 
+Academic dishonesty is a serious offense. The University of Illinois Urbana-Champaign Student Code [https://studentcode.illinois.edu](https://studentcode.illinois.edu) is considered a part of this syllabus. If you are ever in doubt of what constitutes plagiarism or cheating, do not hesitate to ask me.
+
+## Disability Accommodations
+
+To obtain disability-related academic adjustments and/or auxiliary aids, students with disabilities must contact the course instructor and the Disability Resources and Educational Services (DRES) as soon as possible. To contact DRES you may visit 1207 S. Oak St., Champaign, call 333-4603 (V/TTY), or e-mail a message to [disability@illinois.edu](disability@illinois.edu).
 
 
 
