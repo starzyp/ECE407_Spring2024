@@ -29,23 +29,22 @@ This webpage serves as the course syllabus, and it will be edited throughout the
 **Piazza:** https://piazza.com/
 
 ## Grading
+**Class Participation:** 10%.  Please show up to class, and participate in discussions in class and on Piazza. We will sometimes take formal attendance in class. You can miss up to three lectures without excuse; after that, each unexcused absence will deduct of your participation grade.
 
-- **Class Participation:** 10%.  Please show up to class, and participate in discussions in class and on Piazza. We will sometimes take formal attendance in class. You can miss up to three lectures without excuse; after that, each unexcused absence will deduct of your participation grade.
-
-- **Homework:** 50%. The course will include four homework assignments. Each homework will include careful instructions. Homework problems will include (1) long-form problem write-ups and proofs as well as (2) C++ programming assignments. For programming assignments, follow instructions carefully to receive full credit.
+**Homework:** 50%. The course will include four homework assignments. Each homework will include careful instructions. Homework problems will include (1) long-form problem write-ups and proofs as well as (2) C++ programming assignments. For programming assignments, follow instructions carefully to receive full credit.
 
 Homeworks are to be submitted via Gradescope. Late homework will not be accepted without valid excuses and approval of the instructor
 
-**Collaboration.** Homeworks are to be submitted individually. However, you may collaborate with up to one other student on homework assignments. On each homework submission, declare your collaborator (if any). In your collaboration you are expected to discuss the homework, not merely copy answers. Plagiarism will not be tolerated (see Academic Integrity).
+- **Collaboration.** Homeworks are to be submitted individually. However, you may collaborate with up to one other student on homework assignments. On each homework submission, declare your collaborator (if any). In your collaboration you are expected to discuss the homework, not merely copy answers. Plagiarism will not be tolerated (see Academic Integrity).
 
-- **Final Exam:** 40%. The final exam will be a cumulative test on all course topics. It will be a combination of multiple choice and free response problems.
-
+**Final Exam:** 40%. The final exam will be a cumulative test on all course topics. It will be a combination of multiple choice and free response problems.
 **8:00-11:00 a.m., Monday, May 6**
 
+**(4 credit hours only) Final project:** 20%. In teams of 2, you will read papers in the cryptography literature, then write a long-form review. Come talk to me about potential topics. (If you are registered for four credit hours, your final grade will be out of 120, and it will be normalized to out of 100.)
 
 ## Schedule (tentative)
 
-<table style="width: 100%">
+<table style="width: 100%;" border="1">
     <tr>
         <th style="width: 20%;">Date</th>
         <th style="width: 50%;">Topic</th>
