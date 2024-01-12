@@ -24,8 +24,10 @@ This webpage serves as the course syllabus, and it will be edited throughout the
 
 ## Links
 
-**Slides and files**: https://canvas.illinois.edu/
-**Assignments and Gradebook:**: https://www.gradescope.com/
+**Slides and files**: [https://canvas.illinois.edu/](https://canvas.illinois.edu/)
+
+**Assignments and Gradebook:**: [https://www.gradescope.com/](https://www.gradescope.com/)
+
 **Piazza:** [https://piazza.com/](https://piazza.com/class/lrb8tpmh6cv2hl/)
 
 ## Grading
