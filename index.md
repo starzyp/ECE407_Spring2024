@@ -2,7 +2,7 @@
 - **Lectures**: MWF 3:00 pm - 3:50 pm
 - **Location**: 2101 Everitt Laboratory
 - **Instructor**: Prof. [Yupeng Zhang](https://zhangyp.web.illinois.edu/) zhangyp@illinois.edu
-- **Office Hour**: TBD
+- **Office Hour**: TBD, CSL 468
 - **TA**: [Sourav Das](https://sourav1547.github.io/) souravd2@illinois.edu
 - **TA Office Hour**: TBD
 
@@ -24,9 +24,9 @@ This webpage serves as the course syllabus, and it will be edited throughout the
 
 ## Links
 
-**Assignments and Gradebook:** https://canvas.illinois.edu/
-
-**Piazza:** https://piazza.com/
+**Slides and files**: https://canvas.illinois.edu/
+**Assignments and Gradebook:**: https://www.gradescope.com/
+**Piazza:** [https://piazza.com/](https://piazza.com/class/lrb8tpmh6cv2hl/)
 
 ## Grading
 **Class Participation:** 10%.  Please show up to class, and participate in discussions in class and on Piazza. We will sometimes take formal attendance in class. You can miss up to three lectures without excuse; after that, each unexcused absence will deduct of your participation grade.
