@@ -2,9 +2,9 @@
 - **Lectures**: MWF 3:00 pm - 3:50 pm
 - **Location**: 2101 Everitt Laboratory
 - **Instructor**: Prof. [Yupeng Zhang](https://zhangyp.web.illinois.edu/) zhangyp@illinois.edu
-- **Office Hour**: TBD, CSL 468
+- **Office Hour**: Wednesdays 12-1pm, CSL 468
 - **TA**: [Sourav Das](https://sourav1547.github.io/) souravd2@illinois.edu
-- **TA Office Hour**: TBD
+- **TA Office Hour**: Thursdays 4-5pm, Siebel Center 2124
 
 ## Course Description and Prerequisites
 
