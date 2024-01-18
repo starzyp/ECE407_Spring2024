@@ -48,87 +48,119 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
 
 <table style="width: 100%;" border="1">
     <tr>
-        <th style="width: 20%;">Date</th>
+        <th style="width: 10%;">Week</th>
+        <th style="width: 10%;">Date</th>
         <th style="width: 50%;">Topic</th>
         <th style="width: 30%;">Readings</th>
     </tr>
     <tr>
-        <th>Week 1 1/17</th>
-        <th>Introduction and background on Cryptography. Ancient ciphers</th>
+        <th rowspan="2">Week 1</th>
+        <th>1/17</th>
+        <th>Introduction and background on Cryptography</th>
         <th></th>
     </tr>
+     <tr>
+        <th>1/19</th>
+        <th>Ancient ciphers</th>
+        <th>Chapter 1.1-1.3, Introduction to Morden Cryptography</th>
+    </tr>
     <tr>
-        <th>Week 2 1/22</th>
-        <th>One Time Pad, Security definitions and pseudorandomness</th>
-        <th></th>
+        <th rowspan="3">Week 2</th>
+        <th>1/22</th>
+        <th>Perfect secrecy, one-time pad</th>
+        <th>Chapter 1.4, 2</th>
+    </tr>
+    <tr>
+        <th>1/24</th>
+        <th>Computational Security</th>
+        <th>Chapter 3.1,3.2</th>
+    </tr>
+    <tr>
+        <th>1/26</th>
+        <th>Pseudorandomness</th>
+        <th>Chapter 3.3</th>
     </tr>
     <tr>
         <th>Week 3 1/29</th>
+        <th></th>
         <th>Block ciphers, Chosen plaintext attack</th>
         <th></th>
     </tr>
     <tr>
         <th>Week 4 2/5</th>
+        <th></th>
         <th>Block Ciphers and Modes of Operation</th>
         <th></th>
     </tr>
     <tr>
         <th>Week 5 2/12</th>
+        <th></th>
         <th>Message Authentication Codes and CCA security</th>
         <th></th>
     </tr>
     <tr>
         <th>Week 6 2/19</th>
+        <th></th>
         <th>Authenticated encryption, Hash functions</th>
         <th></th>
     </tr>
     <tr>
         <th>Week 7 2/26</th>
+        <th></th>
         <th>Number Theory, Diffie-Hellman key exchange</th>
         <th></th>
     </tr>
     <tr>
         <th>Week 8 3/4</th>
+        <th></th>
         <th>RSA encryptions</th>
         <th></th>
     </tr>
     <tr>
         <th>Week 9 3/11</th>
+        <th></th>
         <th>Spring Break No Class</th>
         <th></th>
     </tr>
     <tr>
         <th>Week 10 3/18</th>
+        <th></th>
         <th>Digital Signatures</th>
         <th></th>
     </tr>
     <tr>
         <th>Week 11 3/25</th>
+        <th></th>
         <th>Digital Signatures</th>
         <th></th>
     </tr>   
     <tr>
         <th>Week 12 4/1</th>
+        <th></th>
         <th>Pairing-based cryptography</th>
         <th></th>
     </tr>
     <tr>
         <th>Week 13 4/8</th>
+        <th></th>
         <th>Zero-knowledge proofs</th>
         <th></th>
     </tr>
     <tr>
         <th>Week 14 4/15</th>
+        <th></th>
         <th>Secure Multiparty Computation</th>
         <th></th>
     </tr>
     <tr>
         <th>Week 15 4/22</th>
+        <th></th>
         <th>Blockchain</th>
         <th></th>
     </tr>
     <tr>
         <th>Week 16 4/29</th>
+        <th></th>
         <th>Ethics and Cryptography, review session</th>
         <th></th>
     </tr>
