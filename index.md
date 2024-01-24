@@ -1,6 +1,6 @@
 ## Course Information
 - **Lectures**: MWF 3:00 pm - 3:50 pm
-- **Location**: 2101 Everitt Laboratory
+- **Location**: ECEB 2013
 - **Instructor**: Prof. [Yupeng Zhang](https://zhangyp.web.illinois.edu/) zhangyp@illinois.edu
 - **Office Hour**: Wednesdays 12-1pm, CSL 468
 - **TA**: [Sourav Das](https://sourav1547.github.io/) souravd2@illinois.edu
