@@ -84,33 +84,33 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
         <th rowspan="3">Week 3</th>
         <th>1/29</th>
         <th>Chosen plaintext attack, stream cipher</th>
-        <th></th>
+        <th>Chapter 3.4, 3.6, 7.1</th>
     </tr>
     <tr>
         <th>1/31</th>
         <th>Pseudorandom Function and Block cipher</th>
-        <th></th>
+        <th>Chapter 3.5</th>
     </tr>
     <tr>
         <th>2/2</th>
         <th>DES and AES</th>
-        <th></th>
+        <th>Chapter 7.2</th>
     </tr>
     <tr>
         <th rowspan="3">Week 4</th>
         <th>2/5</th>
         <th>Modes of Operation</th>
-        <th></th>
+        <th>Chapter 3.6</th>
     </tr>
     <tr>
         <th>2/7</th>
         <th>Modes of Operation</th>
-        <th></th>
+        <th>Chapter 3.6</th>
     </tr>
     <tr>
         <th>2/9</th>
         <th>Padding oracle attacks</th>
-        <th></th>
+        <th>Chapter 5.1</th>
     </tr>
     <tr>
         <th>Week 5 2/12</th>
