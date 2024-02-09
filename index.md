@@ -113,16 +113,36 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
         <th>Chapter 5.1</th>
     </tr>
     <tr>
-        <th>Week 5 2/12</th>
-        <th></th>
-        <th>Message Authentication Codes and CCA security</th>
-        <th></th>
+        <th rowspan="3">Week 5</th>
+        <th>2/12</th>
+        <th>Message Authentication Codes</th>
+        <th>Chapter 4</th>
     </tr>
     <tr>
-        <th>Week 6 2/19</th>
-        <th></th>
-        <th>Authenticated encryption, Hash functions</th>
-        <th></th>
+        <th>2/14</th>
+        <th>CCA security</th>
+        <th>Chapter 5.1.2</th>
+    </tr>
+    <tr>
+        <th>2/16</th>
+        <th>Authenticated Encryption</th>
+        <th>Chapter 5.2-5.3</th>
+    </tr>
+    <tr>
+        <th rowspan="3">Week 6</th>
+        <th>2/19</th>
+        <th>Hash functions</th>
+        <th>Chapter 6.1, 6.4</th>
+    </tr>
+    <tr>
+        <th>2/21</th>
+        <th>Merkle hash tree</th>
+        <th>Chapter 6.6</th>
+    </tr>
+    <tr>
+        <th>2/23</th>
+        <th>HMAC</th>
+        <th>Chapter 6.2-6.3</th>
     </tr>
     <tr>
         <th>Week 7 2/26</th>
