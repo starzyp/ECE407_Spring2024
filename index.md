@@ -145,15 +145,35 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
         <th>Chapter 6.2-6.3</th>
     </tr>
     <tr>
-        <th>Week 7 2/26</th>
-        <th></th>
+        <th rowspan="3">Week 7</th>
+        <th> 2/26 </th>
         <th>Number Theory, Diffie-Hellman key exchange</th>
-        <th></th>
+        <th>Chapter 9.1, 9.3</th>
     </tr>
     <tr>
-        <th>Week 8 3/4</th>
-        <th></th>
+        <th>2/28</th>
+        <th>Diffie-Hellman key exchange</th>
+        <th>Chapter 11.3, 12.4</th>
+    </tr>
+    <tr>
+        <th>3/1</th>
+        <th>ElGamal encryption</th>
+        <th>Chapter 9.4, 12.3</th>
+    </tr>
+    <tr>
+        <th rowspan="3">Week 8</th>
+        <th>3/4</th>
+        <th>Factoring assumptions</th>
+        <th>Chapter 9.2</th>
+    </tr>
+    <tr>
+        <th>3/6</th>
         <th>RSA encryptions</th>
+        <th>Chapter 12.5</th>
+    </tr>
+    <tr>
+        <th>3/8</th>
+        <th></th>
         <th></th>
     </tr>
     <tr>
