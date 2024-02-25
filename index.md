@@ -147,7 +147,7 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
     <tr>
         <th rowspan="3">Week 7</th>
         <th> 2/26 </th>
-        <th>Number Theory, Diffie-Hellman key exchange</th>
+        <th>Number Theory</th>
         <th>Chapter 9.1, 9.3</th>
     </tr>
     <tr>
