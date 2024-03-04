@@ -173,7 +173,7 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
     </tr>
     <tr>
         <th>3/8</th>
-        <th></th>
+        <th>Class canceled due to travelling</th>
         <th></th>
     </tr>
     <tr>
