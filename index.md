@@ -44,6 +44,8 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
 
 **(4 credit hours only) Final project:** 20%. In teams of 2, you will read papers in the cryptography literature, then write a long-form review. Come talk to me about potential topics. (If you are registered for four credit hours, your final grade will be out of 120, and it will be normalized to out of 100.)
 
+**Grading:** [93-100] A, [90-92] A-, [87-89] B+, [83-86] B, [80-82] B-, [77-79] C+, [73-76] C, [70-72] C-, [67-69] D+, [63-66] D, [60-62] D-, [0-59] F.
+
 ## Schedule (tentative)
 
 <table style="width: 100%;" border="1">
