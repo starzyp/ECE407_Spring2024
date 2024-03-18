@@ -185,17 +185,37 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
         <th></th>
     </tr>
     <tr>
-        <th>Week 10 3/18</th>
-        <th></th>
-        <th>Digital Signatures</th>
-        <th></th>
+        <th rowspan="3">Week 10</th>
+        <th>3/18</th>
+        <th>RSA with CCA security</th>
+        <th>Chapter 12.5</th>
     </tr>
     <tr>
-        <th>Week 11 3/25</th>
-        <th></th>
-        <th>Digital Signatures</th>
-        <th></th>
+        <th>3/20</th>
+        <th>Random Oracle and Digital Signature</th>
+        <th>Chapter 6.5, 13.1-13.2</th>
+    </tr>
+    <tr>
+        <th>3/22</th>
+        <th>RSA Signature</th>
+        <th>Chapter 13.3, 13.4</th>
+    </tr>
+    <tr>
+        <th rowspan="3">Week 11</th>
+        <th>3/25</th>
+        <th>Schnorr Signature</th>
+        <th>Chapter 13.6, 13.7</th>
     </tr>   
+    <tr>
+        <th>3/27</th>
+        <th>DSA Signature and PKI</th>
+        <th>Chapter 13.5</th>
+    </tr>
+    <tr>
+        <th>3/29</th>
+        <th>Elliptic curve</th>
+        <th></th>
+    </tr>
     <tr>
         <th>Week 12 4/1</th>
         <th></th>
